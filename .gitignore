@@ -1,0 +1,95 @@
+echo "##active_line2##"
+# Sensitive files
+echo "##active_line3##"
+git_key.txt
+echo "##active_line4##"
+run-interpreter.sh
+echo "##active_line5##"
+
+echo "##active_line6##"
+# Python
+echo "##active_line7##"
+__pycache__/
+echo "##active_line8##"
+*.py[cod]
+echo "##active_line9##"
+*$py.class
+echo "##active_line10##"
+*.so
+echo "##active_line11##"
+.Python
+echo "##active_line12##"
+build/
+echo "##active_line13##"
+develop-eggs/
+echo "##active_line14##"
+dist/
+echo "##active_line15##"
+downloads/
+echo "##active_line16##"
+eggs/
+echo "##active_line17##"
+.eggs/
+echo "##active_line18##"
+lib/
+echo "##active_line19##"
+lib64/
+echo "##active_line20##"
+parts/
+echo "##active_line21##"
+sdist/
+echo "##active_line22##"
+var/
+echo "##active_line23##"
+wheels/
+echo "##active_line24##"
+*.egg-info/
+echo "##active_line25##"
+.installed.cfg
+echo "##active_line26##"
+*.egg
+echo "##active_line27##"
+
+echo "##active_line28##"
+# Jupyter Notebook
+echo "##active_line29##"
+.ipynb_checkpoints
+echo "##active_line30##"
+
+echo "##active_line31##"
+# Environment variables
+echo "##active_line32##"
+.env
+echo "##active_line33##"
+.venv
+echo "##active_line34##"
+env/
+echo "##active_line35##"
+venv/
+echo "##active_line36##"
+ENV/
+echo "##active_line37##"
+env.bak/
+echo "##active_line38##"
+venv.bak/
+echo "##active_line39##"
+
+echo "##active_line40##"
+# IDE
+echo "##active_line41##"
+.vscode/
+echo "##active_line42##"
+.idea/
+echo "##active_line43##"
+*.swp
+echo "##active_line44##"
+*.swo
+echo "##active_line45##"
+
+echo "##active_line46##"
+# OS
+echo "##active_line47##"
+.DS_Store
+echo "##active_line48##"
+Thumbs.db
+echo "##active_line49##"
