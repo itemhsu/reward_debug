@@ -1,0 +1,10 @@
+Metric,Value
+Total Steps,18175.0
+Total Episodes,220.0
+Avg Steps per Episode,82.61363636363636
+Successful Episodes (>99% progress),18.0
+High Reward Steps (reward = 1.0),5325.0
+Low Reward Steps (reward = 0.001),12850.0
+Avg Calculated Reward,0.29369188445667127
+Avg Original Reward,0.9169348555708389
+On-Track Ratio,0.9330398899587345
